@@ -318,8 +318,8 @@
         box-shadow: 5px 5px 20px 5px #000000;
       }
       .section-content:hover{
-        box-shadow: 5px 5px 20px 10px #29a7da;
-        transition: 0.8s;
+        box-shadow:  0px 0px 20px 12px #19a2dc;;
+        transition: 0.5s;
       }
         .contact-info a {
         
