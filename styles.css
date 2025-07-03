@@ -179,6 +179,7 @@
    }
    .skills{
     display: flex;
+    flex-wrap:wrap;
     margin-top: 2pc;
     
    }
@@ -308,7 +309,7 @@
         animation-range: entry 0% cover 40%;
         max-width: 1000px;
         margin: 0 auto;
-        
+        flex-wrap:wrap;
         background: rgba(13, 12, 29, 0.85);
         padding: 5rem;
         color: rgb(52, 216, 241);
